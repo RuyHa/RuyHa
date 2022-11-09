@@ -30,7 +30,7 @@ EZPZ와 함께 여러분의 도전을 시작해보세요.
 ### 한글톤 - VoiceOver Dictionary (VoDic)
 당신의 눈이 되어줄게요.  
 아이폰은 시각장애인 유저를 위한 VoiceOver 기능을 제공합니다.  
-하지만 저희 팀이 사용해본 VoiceOver 기능은 설명 하나 없는 혼자 학습하기엔 너무나 어려웠습니다.
+하지만 저희 팀이 사용해본 VoiceOver 혼자 학습하기엔 너무나 어려웠습니다.
 우리는 누구나 쉽게 배우고 배운것을 도움이 필요한 사람에게 쉽게 알려줄 수 있는 앱을 만들고 싶었습니다.  
 단순히 불빛을 쏘는 등대이지만 누군가에겐 꼭 필요한, VoDic은 당신의 눈이 되어 드릴 수 있습니다.  
 [GitHub: VoDic](https://github.com/DeveloperAcademy-POSTECH/Hangleton_Team8_LightHouse)
