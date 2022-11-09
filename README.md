@@ -16,8 +16,8 @@ EZPZ와 함께 여러분의 도전을 시작해보세요.
 
 ### 탈탈
 지금 성공은 운이 아닙니다. 임포스터 증후군을 겪고 있는 iOS개발자를 위한 앱  
-[GitHub: 탈탈](https://github.com/DeveloperAcademy-POSTECH/MC3_Team10_TalTal)  
 [AppStore: 탈탈](https://apps.apple.com/us/app/taltal/id1637629943)  
+[GitHub: 탈탈](https://github.com/DeveloperAcademy-POSTECH/MC3_Team10_TalTal)  
 
 ### 오르락
 잡고, 딛고, 오른다.  
