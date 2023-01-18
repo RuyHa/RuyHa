@@ -46,6 +46,14 @@
 > `UIkit` `Programmatically` `iPhone App`  
 > *****  
 
+## 취미로 만들고 있는 앱
+### ChatGTP_iOS_APP 
+> ChatGTP는 가지고 놀면 재미가 있지만 매번 컴퓨터를 키기가 귀찮은 이슈가 있었습니다.    
+> 채팅형식의 iOS앱으로 만들어서 편하게 사용하기 위해 만들었습니다.    
+> 스토어에 출시가 가능할지 모르겠지만 추후 사용자들이 발급받은 키를 입력받아 사용가능하게 만들어 출시해보고 싶네요...     
+> [GitHub: RuyHa_ChatGPT](https://github.com/RuyHa/RuyHa_ChatGPT)      
+> `SwiftUI` `Programmatically` `iPhone App`  
+> *****  
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ruyha&show_icons=true&theme=radical)
 
