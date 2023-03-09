@@ -56,9 +56,9 @@
 > *****  
 
 ### 오늘의 우주 
-> 나사의 APOD API을 사용합니다.
-> RxSwfit와 MVVM 패턴을 공부하기 위해 만든 프로젝트입니다.
-> 추후 위젯도 개발해 보고 싶네요.
+> 나사의 APOD API을 사용합니다.    
+> RxSwfit와 MVVM 패턴을 공부하기 위해 만든 프로젝트입니다.    
+> 추후 위젯도 개발해 보고 싶네요.    
 > [GitHub: 오늘의 우주](https://github.com/RuyHa/Universe-Today/tree/Dev)  
 > `Uikit` `Programmatically` `iPhone & iPad App`  
 > *****  
